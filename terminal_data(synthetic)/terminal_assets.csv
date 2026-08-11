@@ -1,0 +1,36 @@
+asset_type,asset_id,detail,param1,param2,note
+tank,TK-01,"4000 kL, D=20.0 m, H=13.0 m",vent_area_m2=0.09,pv_setting_kpa=2.5,"PV valve, set 2.5 kPa"
+tank,TK-02,"4000 kL, D=20.0 m, H=13.0 m",vent_area_m2=0.09,pv_setting_kpa=2.5,"PV valve, set 2.5 kPa"
+tank,TK-03,"3000 kL, D=18.0 m, H=12.0 m",vent_area_m2=0.28,pv_setting_kpa=0.0,FREE VENT - PV valve missing/stuck open
+tank,TK-04,"4000 kL, D=20.0 m, H=13.0 m",vent_area_m2=0.09,pv_setting_kpa=2.5,"PV valve, set 2.5 kPa"
+tank,TK-05,"5000 kL, D=22.0 m, H=13.5 m",vent_area_m2=0.11,pv_setting_kpa=2.5,"PV valve, set 2.5 kPa"
+loading_bay_meter,LB-01,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-02,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-03,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-04,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-05,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-06,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-07,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-08,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-09,MPE +/-0.5%,proving_interval_days=90,,
+loading_bay_meter,LB-10,MPE +/-0.5%,proving_interval_days=90,,
+pipeline_segment,SEG-A,12.0 km,,,
+pipeline_segment,SEG-B,12.0 km,,,
+pipeline_segment,SEG-C,12.0 km,,,
+pipeline_segment,SEG-D,12.0 km,,,
+pipeline_segment,SEG-E,12.0 km,,,
+pipeline_segment,SEG-F,12.0 km,,,
+pipeline_segment,SEG-G,12.0 km,,,
+pipeline_segment,SEG-H,12.0 km,,,
+pipeline_segment,SEG-I,12.0 km,,,
+pipeline_segment,SEG-J,12.0 km,,,
+pipeline_segment,SEG-K,12.0 km,,,
+pipeline_segment,SEG-L,12.0 km,,,
+pipeline_segment,SEG-M,12.0 km,,,
+pipeline_segment,SEG-N,12.0 km,,,
+pipeline_segment,SEG-O,12.0 km,,,
+pipeline_segment,SEG-P,12.0 km,,,
+pipeline_segment,SEG-Q,12.0 km,,,
+pipeline_segment,SEG-R,12.0 km,,,
+pipeline_segment,SEG-S,12.0 km,,,
+pipeline_segment,SEG-T,12.0 km,,,
